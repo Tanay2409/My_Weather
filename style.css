@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Gluten:wght@100&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading {
+  text-align: center;
+  margin: 100px 0;
+}
+body {
+  height: 100vh;
+  font-family: "Gluten", cursive;
+  background: linear-gradient(to top left, #28b487, #7dd56f);
+}
+.input {
+  text-align: center;
+  margin: 100px 0;
+}
+input[type="text"] {
+  height: 50px;
+  width: 600px;
+  background: #e7e7e7;
+  font-family: "Gluten", cursive;
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+  border-radius: 2px;
+  padding: 10px 10px;
+}
+input[type="submit"] {
+  height: 50px;
+  width: 100px;
+  background: #e7e7e7;
+  font-family: "Gluten", cursive;
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+  border-radius: 2px;
+}
+.display {
+  text-align: center;
+}
