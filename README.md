@@ -1,6 +1,6 @@
 # [My Weather](https://my-weather-tanay.netlify.app/)
 
-This is a simple mini-project where the user can input a city name and get the temperature and the weather description of the city in degree celcius.
+This is a simple mini-project where the user can input a city name and get the temperature and the weather description of the city in degree celsius.
 
 ## Features
 
